@@ -1,6 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 header{
     border: solid red 2px;
 }
 main{
     border: solid blue 2px;
+}
+body{
+    margin: 200px;
+}
+header{
+    text-align: center;
+}
+.conteiner{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 75px;
+}
+.item{
+    margin: 25px;
+    
+}
+img{
+    width: 50PX;
+}
+.caja{
+    width: 300px;
+    padding: 5px;
 }
