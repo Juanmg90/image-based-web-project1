@@ -2,9 +2,6 @@
     padding: 0px;
     margin: 0px;
 }
-header{
-    
-}
 body{
     margin: 100px;
     background-color: rgb(206, 214, 240);
@@ -26,15 +23,13 @@ main{
     margin: 10px 60px;
 }
 .item{
-    margin: 40px;
-    
+    margin: 40px;    
 }
 img{
     width: 50PX;
 }
 .caja{
-    width: 360px;
-    
+    width: 360px;    
 }
 h1{
    font-family: Tahoma, sans-serif;
@@ -42,15 +37,15 @@ h1{
    font-weight: bold;
 }
 p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(87, 87, 87);
 }
 h3{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(21, 39, 92);
 }
 .ser{
     color: rgb(66, 106, 227);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, fantasy;
     font-weight: bold;
+}
+p, h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, fantasy;
 }
