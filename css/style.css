@@ -9,7 +9,7 @@ main{
     border: solid blue 2px;
 }
 body{
-    margin: 200px;
+    margin: 150px;
 }
 header{
     text-align: center;
@@ -17,7 +17,7 @@ header{
 .conteiner{
     display: grid;
     grid-template-columns: auto auto auto;
-    margin: 75px;
+    margin: 50px;
 }
 .item{
     margin: 25px;
@@ -27,6 +27,24 @@ img{
     width: 50PX;
 }
 .caja{
-    width: 300px;
+    width: 360px;
     padding: 5px;
+}
+h1{
+   font-family: Tahoma, sans-serif;
+   color: rgb(14, 33, 89);  
+   font-weight: bold;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(87, 87, 87);
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(21, 39, 92);
+}
+.ser{
+    color: rgb(66, 106, 227);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, fantasy;
+    font-weight: bold;
 }
