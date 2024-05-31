@@ -42,10 +42,10 @@ p{
 h3{
     color: rgb(21, 39, 92);
 }
-.ser{
-    color: rgb(66, 106, 227);
-    font-weight: bold;
-}
 p, h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, fantasy;
+}
+.ser{
+    color: rgb(66, 106, 227);
+    font-weight: bold ;
 }
