@@ -3,24 +3,30 @@
     margin: 0px;
 }
 header{
-    border: solid red 2px;
-}
-main{
-    border: solid blue 2px;
+    
 }
 body{
-    margin: 150px;
+    margin: 100px;
+    background-color: rgb(206, 214, 240);
 }
 header{
     text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    background-color: rgb(255, 255, 255) ;
+    padding: 60px;
+}
+main{
+    border: solid rgb(255, 255, 255) 2px;
+    border-radius: 0px 0px 15px 15px;
+    background-color: rgb(255, 255, 255)
 }
 .conteiner{
     display: grid;
     grid-template-columns: auto auto auto;
-    margin: 50px;
+    margin: 10px 60px;
 }
 .item{
-    margin: 25px;
+    margin: 40px;
     
 }
 img{
@@ -28,7 +34,7 @@ img{
 }
 .caja{
     width: 360px;
-    padding: 5px;
+    
 }
 h1{
    font-family: Tahoma, sans-serif;
